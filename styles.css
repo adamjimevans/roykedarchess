@@ -109,9 +109,8 @@ footer {
     padding: 10px;
 }
 
-logo {
-    color: black
-
+.banner h2, .banner p {
+    color: black;
 }
 
 JavaScript (optional for form submission)
