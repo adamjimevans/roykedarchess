@@ -108,6 +108,12 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+logo {
+    color: black
+
+}
+
 JavaScript (optional for form submission)
 For a simple form submission using email, you can integrate EmailJS or use a backend service. Here's a basic setup:
 
